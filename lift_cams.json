@@ -1,0 +1,7 @@
+{
+    "lift_5":"rtsp://admin:admin123@10.0.0.102:554",
+    "lift_4":"rtsp://admin:admin123@10.0.0.98:554",
+    "lift_2":"rtsp://admin:admin123@10.0.0.239:554",
+    "lift_3":"rtsp://admin:admin123@10.0.0.240:554",
+    "lift_1":"rtsp://admin:admin123@10.0.0.99:554"
+}
